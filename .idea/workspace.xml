@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="296f29c6-a1a8-4897-8d5a-b1a412b603e7" name="Changes" comment="array">
-      <change afterPath="$PROJECT_DIR$/src/datastructure/linear/practice/Array1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/linear/practice/Array2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/linear/practice/Array3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/linear/practice/Array4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/linear/practice/Array5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/linear/practice/Array6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/linear/practice/Array7.java" afterDir="false" />
+    <list default="true" id="296f29c6-a1a8-4897-8d5a-b1a412b603e7" name="Changes" comment="linked list">
+      <change afterPath="$PROJECT_DIR$/src/datastructure/linear/practice/linkedlist/PalindromeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/linear/practice/linkedlist/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectoriented/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectoriented/CreditCardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectoriented/신용카드.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectoriented/신용카드테스트.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectoriented/신용카드테스트2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/linear/practice/linkedlist/LinkedList1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/linear/practice/linkedlist/LinkedList1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,20 +39,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/thdefn/IdeaProjects/BasicJava/src/objectoriented"
   }
-}</component>
-  <component name="RunManager" selected="Application.datastructure.linear.practice.array.Array7">
-    <configuration name="datastructure.linear.practice.array.Array3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.linear.practice.array.Array3" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/objectoriented" />
+      <recent name="$PROJECT_DIR$/src/datastructure/linear/practice/linkedlist" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/datastructure" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="objectoriented" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CreditCardTest">
+    <configuration name="신용카드테스트2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objectoriented.신용카드테스트2" />
       <module name="BasicJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.linear.practice.array.*" />
+          <option name="PATTERN" value="objectoriented.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="datastructure.linear.practice.array.Array4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.linear.practice.array.Array4" />
+    <configuration name="CreditCardTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objectoriented.CreditCardTest" />
       <module name="BasicJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.linear.practice.array.*" />
+          <option name="PATTERN" value="objectoriented.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="datastructure.linear.practice.array.Array5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.linear.practice.array.Array5" />
+    <configuration name="PalindromeLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.linear.practice.linkedlist.PalindromeLinkedList" />
       <module name="BasicJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.linear.practice.array.*" />
+          <option name="PATTERN" value="datastructure.linear.practice.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="datastructure.linear.practice.array.Array6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.linear.practice.array.Array6" />
+    <configuration name="datastructure.linear.CircularLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.linear.CircularLinkedList" />
       <module name="BasicJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.linear.practice.array.*" />
+          <option name="PATTERN" value="datastructure.linear.practice.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="datastructure.linear.practice.array.Array7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.linear.practice.array.Array7" />
+    <configuration name="datastructure.linear.practice.linkedlist.LinkedList1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.linear.practice.linkedlist.LinkedList1" />
       <module name="BasicJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.linear.practice.array.*" />
+          <option name="PATTERN" value="datastructure.linear.practice.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.datastructure.linear.practice.array.Array7" />
-        <item itemvalue="Application.datastructure.linear.practice.array.Array6" />
-        <item itemvalue="Application.datastructure.linear.practice.array.Array5" />
-        <item itemvalue="Application.datastructure.linear.practice.array.Array4" />
-        <item itemvalue="Application.datastructure.linear.practice.array.Array3" />
+        <item itemvalue="Application.CreditCardTest" />
+        <item itemvalue="Application.신용카드테스트2" />
+        <item itemvalue="Application.PalindromeLinkedList" />
+        <item itemvalue="Application.datastructure.linear.practice.linkedlist.LinkedList1" />
+        <item itemvalue="Application.datastructure.linear.CircularLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +147,13 @@
       <workItem from="1674180149370" duration="7316000" />
       <workItem from="1674189742963" duration="584000" />
       <workItem from="1674204081822" duration="464000" />
-      <workItem from="1674246061018" duration="2711000" />
+      <workItem from="1674246061018" duration="4087000" />
+      <workItem from="1674295115930" duration="10000" />
+      <workItem from="1674468676961" duration="5081000" />
+      <workItem from="1674565002043" duration="7903000" />
+      <workItem from="1674618437665" duration="3753000" />
+      <workItem from="1674681250770" duration="3943000" />
+      <workItem from="1674721314330" duration="1524000" />
     </task>
     <task id="LOCAL-00001" summary="math">
       <created>1674181405899</created>
@@ -149,7 +169,35 @@
       <option name="project" value="LOCAL" />
       <updated>1674186505319</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="array">
+      <created>1674248940123</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674248940123</updated>
+    </task>
+    <task id="LOCAL-00004" summary="linked list">
+      <created>1674473347233</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674473347233</updated>
+    </task>
+    <task id="LOCAL-00005" summary="linked list">
+      <created>1674569287319</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674569287319</updated>
+    </task>
+    <task id="LOCAL-00006" summary="linked list">
+      <created>1674683362482</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674683362482</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,6 +217,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="math" />
     <MESSAGE value="array" />
-    <option name="LAST_COMMIT_MESSAGE" value="array" />
+    <MESSAGE value="linked list" />
+    <option name="LAST_COMMIT_MESSAGE" value="linked list" />
   </component>
 </project>

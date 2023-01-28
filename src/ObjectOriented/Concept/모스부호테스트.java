@@ -1,4 +1,4 @@
-package ObjectOriented;
+package ObjectOriented.Concept;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package ObjectOriented;
+package ObjectOriented.Concept;
 /*
 멤버 변수의 초기화 방법
 -명시적 초기화

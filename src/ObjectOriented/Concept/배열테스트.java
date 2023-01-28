@@ -1,4 +1,4 @@
-package ObjectOriented;
+package ObjectOriented.Concept;
 /*
 배열
 같은 타입(형)의 여러 변수를 하나의 묶음(SET)으로 선언해서 처리하는 것

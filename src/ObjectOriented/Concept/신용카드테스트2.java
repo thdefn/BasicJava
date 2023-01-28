@@ -1,4 +1,4 @@
-package ObjectOriented;
+package ObjectOriented.Concept;
 
 public class 신용카드테스트2 {
     public static void main(String[] args) {

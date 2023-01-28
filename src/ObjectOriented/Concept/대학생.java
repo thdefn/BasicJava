@@ -1,4 +1,4 @@
-package ObjectOriented;
+package ObjectOriented.Concept;
 /*
 생성자 오버로딩
 -메서드 명은 동일하나 전달되는 파라미터만 다른 것 > 함수를 전달 파라미터만 달리하는 것 : 메서드 오버로딩

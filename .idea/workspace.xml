@@ -1,18 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="296f29c6-a1a8-4897-8d5a-b1a412b603e7" name="Changes" comment="refactor">
+    <list default="true" id="296f29c6-a1a8-4897-8d5a-b1a412b603e7" name="Changes" comment="array">
       <change afterPath="$PROJECT_DIR$/src/DataStructure/linear/practice/linkedlist/PalindromeLinkedList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/DataStructure/linear/practice/linkedlist/ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/대학생.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/대학생테스트.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/학생.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/학생테스트.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/Usage/교직원.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/Usage/기차.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/Usage/사람.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/Usage/상속테스트.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/Usage/아빠.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/Usage/엄마.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/Usage/자동차.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/Usage/자식.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/Usage/자전거.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/Usage/차량.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjectOriented/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOriented/CreditCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjectOriented/CreditCardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOriented/CreditCardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectOriented/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOriented/Concept/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectOriented/CircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOriented/Concept/CircleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectOriented/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOriented/Concept/CreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectOriented/CreditCardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOriented/Concept/CreditCardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectOriented/달력.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOriented/Concept/달력.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectOriented/달력테스트.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOriented/Concept/달력테스트.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectOriented/대학생.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOriented/Concept/대학생.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectOriented/대학생테스트.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOriented/Concept/대학생테스트.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectOriented/모스부호테스트.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOriented/Concept/모스부호테스트.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectOriented/배열초기화테스트.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOriented/Concept/배열초기화테스트.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectOriented/배열테스트.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOriented/Concept/배열테스트.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectOriented/신용카드.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOriented/Concept/신용카드.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectOriented/신용카드테스트.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOriented/Concept/신용카드테스트.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectOriented/신용카드테스트2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOriented/Concept/신용카드테스트2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectOriented/콜라.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOriented/Concept/콜라.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectOriented/콜라테스트.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOriented/Concept/콜라테스트.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectOriented/학생.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOriented/Concept/학생.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectOriented/학생테스트.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOriented/Concept/학생테스트.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,14 +61,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/thdefn/IdeaProjects/BasicJava/src/objectoriented"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/thdefn/IdeaProjects/BasicJava/src/objectoriented&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/objectoriented" />
@@ -61,26 +81,13 @@
       <recent name="objectoriented" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CircleTest">
-    <configuration name="학생테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOriented.학생테스트" />
+  <component name="RunManager" selected="Application.ObjectOriented.Concept.CircleTest">
+    <configuration name="모스부호테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOriented.Concept.모스부호테스트" />
       <module name="BasicJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ObjectOriented.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="신용카드테스트2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOriented.신용카드테스트2" />
-      <module name="BasicJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ObjectOriented.*" />
+          <option name="PATTERN" value="ObjectOriented.Concept.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,7 +96,20 @@
       </method>
     </configuration>
     <configuration name="CircleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOriented.CircleTest" />
+      <option name="MAIN_CLASS_NAME" value="ObjectOriented.Concept.CircleTest" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObjectOriented.Concept.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="배열초기화테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOriented.배열초기화테스트" />
       <module name="BasicJava" />
       <extension name="coverage">
         <pattern>
@@ -101,8 +121,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreditCardTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOriented.CreditCardTest" />
+    <configuration name="배열테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOriented.배열테스트" />
       <module name="BasicJava" />
       <extension name="coverage">
         <pattern>
@@ -114,12 +134,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructure.linear.practice.linkedlist.PalindromeLinkedList" />
+    <configuration name="달력테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOriented.달력테스트" />
       <module name="BasicJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataStructure.linear.practice.linkedlist.*" />
+          <option name="PATTERN" value="ObjectOriented.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="콜라테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOriented.콜라테스트" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObjectOriented.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="달력테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOriented.달력테스트" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObjectOriented.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +175,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CircleTest" />
-        <item itemvalue="Application.학생테스트" />
-        <item itemvalue="Application.ObjectOriented.CreditCardTest" />
-        <item itemvalue="Application.ObjectOriented.신용카드테스트2" />
-        <item itemvalue="Application.DataStructure.linear.practice.linkedlist.PalindromeLinkedList" />
+        <item itemvalue="Application.ObjectOriented.Concept.모스부호테스트" />
+        <item itemvalue="Application.ObjectOriented.Concept.CircleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +198,12 @@
       <workItem from="1674565002043" duration="7903000" />
       <workItem from="1674618437665" duration="3753000" />
       <workItem from="1674681250770" duration="3943000" />
-      <workItem from="1674721314330" duration="7439000" />
+      <workItem from="1674721314330" duration="8288000" />
+      <workItem from="1674761290805" duration="4917000" />
+      <workItem from="1674864548243" duration="438000" />
+      <workItem from="1674864990285" duration="1036000" />
+      <workItem from="1674866103651" duration="51000" />
+      <workItem from="1674895212517" duration="1913000" />
     </task>
     <task id="LOCAL-00001" summary="math">
       <created>1674181405899</created>
@@ -213,7 +261,49 @@
       <option name="project" value="LOCAL" />
       <updated>1674723289468</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="constructor">
+      <created>1674737647675</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674737647675</updated>
+    </task>
+    <task id="LOCAL-00010" summary="static">
+      <created>1674737659228</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674737659228</updated>
+    </task>
+    <task id="LOCAL-00011" summary="static and final">
+      <created>1674763015024</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674763015024</updated>
+    </task>
+    <task id="LOCAL-00012" summary="array">
+      <created>1674784305154</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1674784305154</updated>
+    </task>
+    <task id="LOCAL-00013" summary="array">
+      <created>1674866023486</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1674866023486</updated>
+    </task>
+    <task id="LOCAL-00014" summary="array">
+      <created>1674866147406</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1674866147406</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,10 +322,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="math" />
-    <MESSAGE value="array" />
     <MESSAGE value="linked list" />
     <MESSAGE value="object oriented programming" />
     <MESSAGE value="refactor" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor" />
+    <MESSAGE value="constructor" />
+    <MESSAGE value="static" />
+    <MESSAGE value="static and final" />
+    <MESSAGE value="array" />
+    <option name="LAST_COMMIT_MESSAGE" value="array" />
   </component>
 </project>

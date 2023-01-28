@@ -1,4 +1,4 @@
-package ObjectOriented;
+package ObjectOriented.Concept;
 /*
 키워드 static
 -필드나 메소드의 소속을 클래스로 제한하는 키워드

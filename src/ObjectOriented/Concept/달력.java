@@ -1,4 +1,4 @@
-package ObjectOriented;
+package ObjectOriented.Concept;
 /*
 지역 변수의 상수
 -키워드 final을 명시

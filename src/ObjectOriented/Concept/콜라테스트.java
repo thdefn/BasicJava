@@ -1,4 +1,4 @@
-package ObjectOriented;
+package ObjectOriented.Concept;
 
 public class 콜라테스트 {
     public static void main(String[] args) {

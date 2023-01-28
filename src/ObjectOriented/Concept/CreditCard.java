@@ -1,4 +1,4 @@
-package ObjectOriented;
+package ObjectOriented.Concept;
 
 public class CreditCard {
     private long cardNumber; //실제 프로젝트에서 클래스 내부 필드는 대부분 private

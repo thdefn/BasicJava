@@ -1,4 +1,4 @@
-package ObjectOriented;
+package ObjectOriented.Concept;
 
 public class 신용카드 {
     public long 카드번호;

@@ -1,4 +1,7 @@
-package ObjectOriented.Usage;
+package ObjectOriented.Usage.sam02;
+
+import ObjectOriented.Usage.sam02.엄마;
+
 /*
 자식의 유전적 특징은 엄마 뿐만 아니라 아빠로부터도 물려받는다
 클래스 상속은 단일 상속을 기본으로 한다

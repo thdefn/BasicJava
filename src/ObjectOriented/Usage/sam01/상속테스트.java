@@ -1,4 +1,7 @@
-package ObjectOriented.Usage;
+package ObjectOriented.Usage.sam01;
+
+import ObjectOriented.Usage.sam01.교직원;
+import ObjectOriented.Usage.sam01.사람;
 
 public class 상속테스트 {
     public static void main(String[] args) {

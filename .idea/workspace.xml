@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="296f29c6-a1a8-4897-8d5a-b1a412b603e7" name="Changes" comment="access modifier">
+    <list default="true" id="296f29c6-a1a8-4897-8d5a-b1a412b603e7" name="Changes" comment="polymorphism-upcasting">
       <change afterPath="$PROJECT_DIR$/src/DataStructure/linear/practice/linkedlist/PalindromeLinkedList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/DataStructure/linear/practice/linkedlist/ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/Usage/sam01/교직원테스트.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/Usage/sam01/사람테스트.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/Usage/sam01/사무직원.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/Usage/sam01/사무직원테스트.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/Usage/sam01/다운캐스팅테스트.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjectOriented/Usage/sam01/교직원.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOriented/Usage/sam01/교직원.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjectOriented/Usage/sam01/사람.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOriented/Usage/sam01/사람.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +54,7 @@
       <recent name="objectoriented" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.사무직원테스트">
+  <component name="RunManager" selected="Application.다운캐스팅테스트">
     <configuration name="모스부호테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ObjectOriented.Concept.모스부호테스트" />
       <module name="BasicJava" />
@@ -99,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CircleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOriented.Concept.CircleTest" />
+    <configuration name="다운캐스팅테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOriented.Usage.sam01.다운캐스팅테스트" />
       <module name="BasicJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ObjectOriented.Concept.*" />
+          <option name="PATTERN" value="ObjectOriented.Usage.sam01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,6 +226,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.다운캐스팅테스트" />
         <item itemvalue="Application.사무직원테스트" />
         <item itemvalue="Application.교직원테스트" />
         <item itemvalue="Application.ObjectOriented.Usage.자동차테스트" />
@@ -263,7 +259,7 @@
       <workItem from="1674895212517" duration="3471000" />
       <workItem from="1674898995203" duration="974000" />
       <workItem from="1674909365940" duration="1945000" />
-      <workItem from="1674978284453" duration="4426000" />
+      <workItem from="1674978284453" duration="5408000" />
     </task>
     <task id="LOCAL-00001" summary="math">
       <created>1674181405899</created>
@@ -398,7 +394,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674979727407</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="polymorphism-upcasting">
+      <created>1674988598501</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1674988598501</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -427,6 +430,7 @@
     <MESSAGE value="extends" />
     <MESSAGE value="extends and constructor" />
     <MESSAGE value="access modifier" />
-    <option name="LAST_COMMIT_MESSAGE" value="access modifier" />
+    <MESSAGE value="polymorphism-upcasting" />
+    <option name="LAST_COMMIT_MESSAGE" value="polymorphism-upcasting" />
   </component>
 </project>

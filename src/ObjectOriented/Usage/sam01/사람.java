@@ -16,4 +16,10 @@ public class 사람 { //퍼블릭 클래스 명은 파일명과 동일해야 한
     public long get주민번호(){
         return 번호;
     }
+
+    public void 정보출력(){
+        System.out.println("------사람정보-------");
+        System.out.println("이름: "+이름);
+        System.out.println("주민번호: "+번호);
+    }
 }

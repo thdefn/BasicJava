@@ -15,7 +15,21 @@ import ObjectOriented.Usage.sam02.엄마;
 -다중상속을 받지 않는다
 
 * */
-public class 자식 extends 엄마//, 아빠
+public class 자식 implements 아빠, 엄마
 {
 
+    @Override
+    public void 형광등달기() {
+
+    }
+
+    @Override
+    public void 세차하기() {
+
+    }
+
+    @Override
+    public void 집안일하기() {
+
+    }
 }

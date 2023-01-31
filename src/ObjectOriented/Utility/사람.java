@@ -9,6 +9,7 @@ public class 사람 {
         this.나이 = 나이;
     }
 
+    //Object로부터 오버라이딩
     @Override
     public String toString() {
         return "이름: " + this.이름 + ", 나이: " + this.나이;

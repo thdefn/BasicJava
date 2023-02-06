@@ -4,17 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="296f29c6-a1a8-4897-8d5a-b1a412b603e7" name="Changes" comment="S">
-      <change afterPath="$PROJECT_DIR$/lib/mariadb-java-client-3.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Application/DbTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Application/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Application/MemberService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Application/MemberTest.java" afterDir="false" />
+    <list default="true" id="296f29c6-a1a8-4897-8d5a-b1a412b603e7" name="Changes" comment="jdbc connect - select">
+      <change afterPath="$PROJECT_DIR$/src/Application/DbTestMain.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/DataStructure/linear/practice/linkedlist/PalindromeLinkedList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/DataStructure/linear/practice/linkedlist/ReverseLinkedList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ObjectOriented/Utility/문자열테스트.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/DbTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/DbTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +71,7 @@
       <recent name="objectoriented" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DbTest">
+  <component name="RunManager" selected="Application.DbTestMain">
     <configuration name="문자열테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ObjectOriented.Utility.문자열테스트" />
       <module name="BasicJava" />
@@ -102,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MemberTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Application.MemberTest" />
+    <configuration name="DbTestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application.DbTestMain" />
       <module name="BasicJava" />
       <extension name="coverage">
         <pattern>
@@ -115,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOriented.Utility.Sample3" />
+    <configuration name="MemberTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application.MemberTest" />
       <module name="BasicJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ObjectOriented.Utility.*" />
+          <option name="PATTERN" value="Application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -351,11 +347,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DbTestMain" />
         <item itemvalue="Application.DbTest" />
         <item itemvalue="Application.MemberTest" />
         <item itemvalue="Application.문자열테스트" />
         <item itemvalue="Application.Sample4" />
-        <item itemvalue="Application.Sample3" />
       </list>
     </recent_temporary>
   </component>
@@ -401,7 +397,7 @@
       <workItem from="1675595765466" duration="1073000" />
       <workItem from="1675596846827" duration="1969000" />
       <workItem from="1675598945963" duration="1460000" />
-      <workItem from="1675601141036" duration="2236000" />
+      <workItem from="1675601141036" duration="3498000" />
     </task>
     <task id="LOCAL-00001" summary="math">
       <created>1674181405899</created>
@@ -606,7 +602,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675208237336</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="jdbc connect - select">
+      <created>1675632590656</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1675632590656</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -643,7 +646,8 @@
     <MESSAGE value="abstract class" />
     <MESSAGE value="interface" />
     <MESSAGE value="Object" />
-    <option name="LAST_COMMIT_MESSAGE" value="Object" />
+    <MESSAGE value="jdbc connect - select" />
+    <option name="LAST_COMMIT_MESSAGE" value="jdbc connect - select" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

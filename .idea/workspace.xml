@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="296f29c6-a1a8-4897-8d5a-b1a412b603e7" name="Changes" comment="jdbc connect - select">
-      <change afterPath="$PROJECT_DIR$/src/Application/DbTestMain.java" afterDir="false" />
+    <list default="true" id="296f29c6-a1a8-4897-8d5a-b1a412b603e7" name="Changes" comment="jdbc connect - insert, delete, update">
       <change afterPath="$PROJECT_DIR$/src/DataStructure/linear/practice/linkedlist/PalindromeLinkedList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/DataStructure/linear/practice/linkedlist/ReverseLinkedList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ObjectOriented/Utility/문자열테스트.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Application/DbTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/DbTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/DbTestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/DbTestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/MemberService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/MemberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/MemberTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,19 +43,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "corretto-1.8",
-    "last_opened_file_path": "/Users/thdefn/IdeaProjects/BasicJava/src/objectoriented",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.general"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/thdefn/IdeaProjects/BasicJava/src/objectoriented&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/objectoriented" />
@@ -130,110 +133,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ObjectOriented.Utility.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="강철부대테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOriented.Usage.sam09.강철부대테스트" />
-      <module name="BasicJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ObjectOriented.Usage.sam09.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="달력테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOriented.달력테스트" />
-      <module name="BasicJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ObjectOriented.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="콜라테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOriented.콜라테스트" />
-      <module name="BasicJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ObjectOriented.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="달력테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOriented.달력테스트" />
-      <module name="BasicJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ObjectOriented.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="교직원테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOriented.Usage.sam01.교직원테스트" />
-      <module name="BasicJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ObjectOriented.Usage.sam01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="사무직원테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOriented.Usage.sam01.사무직원테스트" />
-      <module name="BasicJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ObjectOriented.Usage.sam01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="다운캐스팅테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOriented.Usage.sam01.다운캐스팅테스트" />
-      <module name="BasicJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ObjectOriented.Usage.sam01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="과일테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOriented.Usage.sam05.과일테스트" />
-      <module name="BasicJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ObjectOriented.Usage.sam05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -345,6 +244,110 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="강철부대테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOriented.Usage.sam09.강철부대테스트" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObjectOriented.Usage.sam09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="달력테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOriented.달력테스트" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObjectOriented.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="콜라테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOriented.콜라테스트" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObjectOriented.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="달력테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOriented.달력테스트" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObjectOriented.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="교직원테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOriented.Usage.sam01.교직원테스트" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObjectOriented.Usage.sam01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="사무직원테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOriented.Usage.sam01.사무직원테스트" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObjectOriented.Usage.sam01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="다운캐스팅테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOriented.Usage.sam01.다운캐스팅테스트" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObjectOriented.Usage.sam01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="과일테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOriented.Usage.sam05.과일테스트" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObjectOriented.Usage.sam05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.DbTestMain" />
@@ -397,7 +400,7 @@
       <workItem from="1675595765466" duration="1073000" />
       <workItem from="1675596846827" duration="1969000" />
       <workItem from="1675598945963" duration="1460000" />
-      <workItem from="1675601141036" duration="3498000" />
+      <workItem from="1675601141036" duration="5374000" />
     </task>
     <task id="LOCAL-00001" summary="math">
       <created>1674181405899</created>
@@ -609,7 +612,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675632590656</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="jdbc connect - insert">
+      <created>1675647636792</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1675647636792</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -647,7 +657,8 @@
     <MESSAGE value="interface" />
     <MESSAGE value="Object" />
     <MESSAGE value="jdbc connect - select" />
-    <option name="LAST_COMMIT_MESSAGE" value="jdbc connect - select" />
+    <MESSAGE value="jdbc connect - insert" />
+    <option name="LAST_COMMIT_MESSAGE" value="jdbc connect - insert" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

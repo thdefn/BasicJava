@@ -11,7 +11,7 @@ import java.net.URL;
 
 public class OpenApiTest {
     public static void main(String[] args) {
-        String key = "MY_KEY";
+        String key = "7948437a6c74686438344872706241";
         String baseUrl= "http://openapi.seoul.go.kr:8088/";
 
         try {

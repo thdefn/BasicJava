@@ -4,16 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="296f29c6-a1a8-4897-8d5a-b1a412b603e7" name="Changes" comment="jdbc connect - insert, delete, update">
+    <list default="true" id="296f29c6-a1a8-4897-8d5a-b1a412b603e7" name="Changes" comment="exception">
+      <change afterPath="$PROJECT_DIR$/src/Basic/CollectionFramework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/로또번호만들기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/문자열.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/스트림.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/컬렉션.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/DataStructure/linear/practice/linkedlist/PalindromeLinkedList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/DataStructure/linear/practice/linkedlist/ReverseLinkedList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ObjectOriented/Utility/문자열테스트.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Application/DbTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/DbTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Application/DbTestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/DbTestMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Application/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Application/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/MemberService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Application/MemberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/MemberTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,19 +68,20 @@
       <recent name="$PROJECT_DIR$/src/datastructure" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Basic" />
       <recent name="ObjectOriented.Usage.sam09" />
       <recent name="ObjectOriented.Usage.sam08" />
       <recent name="ObjectOriented.Usage.sam07" />
       <recent name="objectoriented" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DbTestMain">
-    <configuration name="문자열테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOriented.Utility.문자열테스트" />
+  <component name="RunManager" selected="Application.Basic.로또번호만들기">
+    <configuration name="Basic.로또번호만들기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.로또번호만들기" />
       <module name="BasicJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ObjectOriented.Utility.*" />
+          <option name="PATTERN" value="Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,77 +89,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DbTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Application.DbTest" />
+    <configuration name="Basic.CollectionFramework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.CollectionFramework" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Basic.Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Exception" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Basic.Lambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Lambda" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenApiTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application.OpenApiTest" />
       <module name="BasicJava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DbTestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Application.DbTestMain" />
-      <module name="BasicJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MemberTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Application.MemberTest" />
-      <module name="BasicJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sample4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOriented.Utility.Sample4" />
-      <module name="BasicJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ObjectOriented.Utility.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="도형테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOriented.Usage.sam07.도형테스트" />
-      <module name="BasicJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ObjectOriented.Usage.sam07.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="자동차테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOriented.Usage.자동차테스트" />
-      <module name="BasicJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ObjectOriented.Usage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -348,13 +323,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="자동차테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOriented.Usage.자동차테스트" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObjectOriented.Usage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DbTestMain" />
-        <item itemvalue="Application.DbTest" />
-        <item itemvalue="Application.MemberTest" />
-        <item itemvalue="Application.문자열테스트" />
-        <item itemvalue="Application.Sample4" />
+        <item itemvalue="Application.Basic.로또번호만들기" />
+        <item itemvalue="Application.Basic.CollectionFramework" />
+        <item itemvalue="Application.Basic.Exception" />
+        <item itemvalue="Application.Basic.Lambda" />
+        <item itemvalue="Application.OpenApiTest" />
       </list>
     </recent_temporary>
   </component>
@@ -401,6 +389,15 @@
       <workItem from="1675596846827" duration="1969000" />
       <workItem from="1675598945963" duration="1460000" />
       <workItem from="1675601141036" duration="5374000" />
+      <workItem from="1675651375885" duration="677000" />
+      <workItem from="1675831126174" duration="2523000" />
+      <workItem from="1675843309514" duration="41000" />
+      <workItem from="1675890614047" duration="13556000" />
+      <workItem from="1675932219108" duration="40000" />
+      <workItem from="1676413163497" duration="47000" />
+      <workItem from="1676413236970" duration="3402000" />
+      <workItem from="1676418546904" duration="45000" />
+      <workItem from="1676418753762" duration="2199000" />
     </task>
     <task id="LOCAL-00001" summary="math">
       <created>1674181405899</created>
@@ -619,7 +616,42 @@
       <option name="project" value="LOCAL" />
       <updated>1675647636792</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="jdbc connect - 회원 추상화">
+      <created>1675651624060</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1675651624060</updated>
+    </task>
+    <task id="LOCAL-00033" summary="open api 테스트">
+      <created>1675843338614</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1675843338614</updated>
+    </task>
+    <task id="LOCAL-00034" summary="open api 테스트">
+      <created>1676414918946</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1676414918946</updated>
+    </task>
+    <task id="LOCAL-00035" summary="lambda">
+      <created>1676414931670</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1676414931670</updated>
+    </task>
+    <task id="LOCAL-00036" summary="exception">
+      <created>1676416550909</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1676416550909</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -658,7 +690,11 @@
     <MESSAGE value="Object" />
     <MESSAGE value="jdbc connect - select" />
     <MESSAGE value="jdbc connect - insert" />
-    <option name="LAST_COMMIT_MESSAGE" value="jdbc connect - insert" />
+    <MESSAGE value="jdbc connect - 회원 추상화" />
+    <MESSAGE value="open api 테스트" />
+    <MESSAGE value="lambda" />
+    <MESSAGE value="exception" />
+    <option name="LAST_COMMIT_MESSAGE" value="exception" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
